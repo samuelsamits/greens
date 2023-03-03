@@ -1,0 +1,8 @@
+first comment
+seconfd comment
+<<<<<<< HEAD
+thisrd  comment
+=======
+3rd comment
+>>>>>>> dev
+
